@@ -73,4 +73,4 @@ Contributions are welcome! If you have suggestions or find any issues, please op
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/mirza7860/Custom-Shell/blob/main/LICENSE) file for details.
